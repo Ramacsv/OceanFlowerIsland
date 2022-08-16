@@ -78,7 +78,9 @@ a {
   background-size: contain;
   height: 130px;
   margin: 0;
-
+  font-size: 2.0rem;
+  font-weight: 900;
+  
   @include large {
     height: 190px;
   }
