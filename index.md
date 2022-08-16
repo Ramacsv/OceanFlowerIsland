@@ -1,6 +1,4 @@
----
-
----
+<!--  -->
 
 ## Lakshmi Bos story by Suitecase and his friends
 
