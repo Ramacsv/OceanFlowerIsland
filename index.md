@@ -22,9 +22,9 @@ _They told the mammoth to stop drinking. But the mammoth did not._
 
 _Mammoth went to sleep because it drank too much._
 
-_The ocean was filled agin by the milk rain__
+_The ocean was filled agin by the milk rain_
 
-_By then they had find a way to go to cloud island to get some clouds to make water for the flowers in the flower island._
+_By then they had found a way to go to cloud island to get some clouds to make water for the flowers in the flower island._
 
 
 _They had a navigation system that could fly and direct the clouds to where they wanted it go._
