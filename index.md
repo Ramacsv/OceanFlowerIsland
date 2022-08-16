@@ -50,7 +50,7 @@ _Every one was happy_
 **This is the story I wrote sitting under the shade of a tree on the lawn with sun shining through, and took the picture above.**
 
 
-<!--![Graphics](ramacsvart.svg) -->
+![Garland](LashmiBosGarland.svg)
 
 <b>Image Photo by SuiteCase Friend</b>
 <hr style="border:6px solid green">
