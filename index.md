@@ -19,6 +19,10 @@ _When the looked they saw mammoth drinking milk._
 
 _They told the mammoth to stop drinking. But the mammoth did not._
 
+![Milk Ocean](mammothA.svg)
+
+<b>Image Photo by SuiteCase Friend</b>
+<hr style="border:3px solid yellow">
 
 _Mammoth went to sleep because it drank too much._
 
